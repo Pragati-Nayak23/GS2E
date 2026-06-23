@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/home/pragati_nayak/gs2e_project/gaussian-splatting/tandt/train', model_path='output/tandt_train', images='images', depths='', resolution=-1, white_background=False, train_test_exp=False, data_device='cuda', eval=False)
